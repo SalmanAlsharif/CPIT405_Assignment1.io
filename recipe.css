@@ -1,0 +1,61 @@
+.page-main{
+  color: #A4A400;
+    text-decoration: underline;
+    font-size: 22pt;
+    font-weight: bold;
+    font-family:Helvetica;
+}
+.bold{
+    text-indent: 15px;
+    font-weight: bold;
+}
+
+.All-headings{
+    text-indent: 50px;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+.a {
+    text-align: center;
+    font-size: 13px;
+}
+
+
+.p1 {
+  color: #404040 ;
+    font-size: 18pt  ;
+    font-family:inherit;
+}
+
+.p2 {
+  color: #404040 ;
+    font-size: 15pt  ;
+    font-family:inherit;
+}
+ul {
+  list-style-type: circle;
+}
+
+ul1 {
+  text-indent: 120px;
+  list-style-type: circle;
+}
+
+.id {
+
+  text-indent: 90px;
+  font-size: 15pt  ;
+  font-style:italic;
+
+}
+.Right{
+  text-align: right;
+}
+.ss{
+      text-indent: 50px;
+      font-size: 16pt  ;
+        color: #FFFFA8;
+}
