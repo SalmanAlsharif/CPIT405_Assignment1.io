@@ -27,7 +27,7 @@ left: 450px;
   float: left;
   background-color: #EEEEEE;
   width: 60%;
-  background-image: url("image/freshlarge.png"), url("image/rottenlargebg.png");
+  background-image: url("images/freshlarge.png"), url("images/rottenlargebg.png");
   background-position: left top;
   background-repeat: no-repeat, repeat-x;
   background-size: auto 83px, auto 83px;
@@ -68,7 +68,7 @@ font-weight: normal;
   width: 35%;
     background-size: contain , cover;
   height: auto;
-  background-image: url("image/National Day.png"), url("image/bg.png");
+  background-image: url("images/National Day.png"), url("images/bg.png");
   background-repeat: no-repeat;
   font-size: 12pt;
 }
